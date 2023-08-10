@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sam Klein.
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning rust and CISSP certification exam.
-- 💞️ I’m looking to collaborate on building a system manager in Rust.
+- 👀 I’m a certified security engineer for a machinary industry.
+- 🌱 I’m currently working on CSSK, CCSP, and C.
 
 <!---
 s-klein/s-klein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
