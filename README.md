@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Klein.
-- 👀 I’m a certified security engineer for a machinary industry.
-- 🌱 I’m currently working on CSSK, CCSP, and C.
+- 👀 I’m a certified security engineer.
+- 🌱 I’m currently applying to graduate programs in cybersecurity and working full time.
 
 <!---
 s-klein/s-klein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
