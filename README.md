@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Klein.
 - 👀 I’m a certified security engineer.
-- 🌱 I’m currently applying to graduate programs in cybersecurity and working full time.
+- 🌱 I’m MS-CIA graduate, and this isn't my main account.
 
 <!---
 s-klein/s-klein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
